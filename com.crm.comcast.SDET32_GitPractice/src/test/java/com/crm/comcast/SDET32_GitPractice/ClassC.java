@@ -6,7 +6,8 @@ public class ClassC {
 		@Test
 		public void demoTest() {
 	    System.out.println("Fifth Push");
-	    System.out.println("Fifth Push  okk");
+	    System.out.println("Sixth push");
+	    System.out.println("Seventhpush Push");
 
     }
 }
