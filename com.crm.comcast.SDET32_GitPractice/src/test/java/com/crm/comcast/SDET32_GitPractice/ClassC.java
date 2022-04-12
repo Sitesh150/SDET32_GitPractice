@@ -10,6 +10,7 @@ public class ClassC {
 	    System.out.println("Seventhpush Push");
 	    System.out.println("ninethpush Push");
 	    System.out.println("tenthhpush Push");
-
+	    System.out.println("Fourteenthpush Push");
+	    
     }
 }
