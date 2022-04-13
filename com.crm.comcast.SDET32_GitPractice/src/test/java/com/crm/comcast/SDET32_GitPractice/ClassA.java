@@ -7,6 +7,6 @@ public class ClassA {
 public void demoTest() {
 	 System.out.println("First Push");
 	 System.out.println("Fifthpsh Push");
-
+         System.out.println("Third Push");
    }
 }
