@@ -3,7 +3,7 @@
   <groupId>com.crm.comcast.SDET32_GitPractice</groupId>
   <artifactId>com.crm.comcast.SDET32_GitPractice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+<!---POM file changes by me-----!>
 <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
